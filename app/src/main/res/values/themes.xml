@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.MyExpenses" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorPrimaryVariant">@color/purple_dark</item>
+        <item name="colorSecondary">@color/teal</item>
+    </style>
+</resources>
